@@ -1,33 +1,48 @@
-the readme contains the repos of major projects that i have worked on and a brief description of them.
+# Projects
 
- Featured Projects
+A collection of major projects focusing on Network Optimization, Embedded Security, and Generative AI.
 
-[RRM-Simulation](https://github.com/Arista-HP/RRM-Simulation) & [Sensing_Orchestrator](https://github.com/Arista-HP/Sensing_Orchestrator)
+## RRM-Simulation & Sensing_Orchestrator
+**Silver Medal, Inter IIT Tech Meet 14.0 (Arista Networks)**
 
- Silver Medal @ Inter IIT Tech Meet 14.0 (Arista Networks)
- A safety-first WiFi optimization pipeline designed to manage radio resources in high-density environments.
- Tech: Python, Deep Q-Learning, Graph Neural Networks (GNN),CNNs, NetworkX.
- Implemented Conservative Q-Learning (CQL) and Gamma-Thompson Sampling to safely explore channel configurations without disrupting live network traffic.
- Orchestration:Built a sensing pipeline that continuously updates the RL agent with real-time interference data.
+A safety-first WiFi optimization pipeline designed to manage radio resources in high-density environments.
 
+* **Tech:** Python, Deep Q-Learning, Graph Neural Networks (GNN), CNNs, NetworkX.
+* **Optimization:** Implemented Conservative Q-Learning (CQL) and Gamma-Thompson Sampling to safely explore channel configurations without disrupting live network traffic.
+* **Orchestration:** Built a sensing pipeline that continuously updates the RL agent with real-time interference data.
 
+[View RRM-Simulation](https://github.com/Arista-HP/RRM-Simulation) | [View Sensing_Orchestrator](https://github.com/Arista-HP/Sensing_Orchestrator)
 
-[QTrino](https://github.com/KrishRandar/QTrino)
+---
 
-Bronze Medal @ Inter IIT Tech Meet 14.0 (QTrino Labs)
+## QTrino
+**Bronze Medal, Inter IIT Tech Meet 14.0 (QTrino Labs)**
+
 A post-quantum secure DTLS 1.3 communication channel for bare-metal RISC-V IoT devices.
-Tech:C, RISC-V, LiteX, Verilator, wolfSSL/wolfCrypt,wireshark
-Integrated Post-Quantum Cryptography (Kyber/Dilithium) into the handshake flow of an embedded device running without an OS.
-Verified secure mutual authentication via Wireshark packet analysis.
 
+* **Tech:** C, RISC-V, LiteX, Verilator, wolfSSL/wolfCrypt, Wireshark.
+* **Security:** Integrated Post-Quantum Cryptography (Kyber/Dilithium) into the handshake flow of an embedded device running without an OS.
+* **Validation:** Verified secure mutual authentication via Wireshark packet analysis.
 
+[View Repository](https://github.com/KrishRandar/QTrino)
 
- [MILE](https://github.com/PrakharAsthana28/MILE)
- 
-2nd Runner-Up @ UDGAM ENCODE Hackathon
-Next.js 14+ (TypeScript), Generative AI, Thesys C1.
-Uses "Generative UI" artifacts to render dynamic visual components based on natural language queries about spending and budgets.
+---
 
- [Decode](https://github.com/PrakharAsthana28/Decode)
-  Repo for the first phase of the UDGAM ENCODE Hackathon 
+## MILE
+**2nd Runner-Up, UDGAM ENCODE Hackathon**
 
+An AI-native finance companion that transforms natural language into actionable financial insights.
+
+* **Tech:** Next.js 14+ (TypeScript), Generative AI, Thesys C1.
+* **Generative UI:** Uses "Generative UI" artifacts to render dynamic visual components based on natural language queries about spending and budgets.
+
+[View Repository](https://github.com/PrakharAsthana28/MILE)
+
+---
+
+## Decode
+**UDGAM ENCODE Hackathon (Phase 1)**
+
+The repository for the first phase of the UDGAM ENCODE Hackathon challenge.
+
+[View Repository](https://github.com/PrakharAsthana28/Decode)

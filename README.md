@@ -1,7 +1,6 @@
 # Projects
 
-A collection of major projects focusing on Network Optimization, Embedded Security, and Generative AI.
-
+The readme contains some of the major projects that i worked on and brief description of them as well as the areas where i contributed. 
 ## RRM-Simulation & Sensing_Orchestrator
 **Silver Medal, Inter IIT Tech Meet 14.0 (Arista Networks)**
 
